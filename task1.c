@@ -13,7 +13,7 @@ void main()
 	}
 	system("pause");
 }
-# VAR 3
+# ВАРИАНТ ТРИ
 #include <stdio.h>
 #include <stdlib.h>
 #define START_ROW 4
